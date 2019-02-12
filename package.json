@@ -1,0 +1,22 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ActiveArsal/tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ActiveArsal/tests/issues"
+  },
+  "homepage": "https://github.com/ActiveArsal/tests#readme",
+  "dependencies": {
+    "jest": "^24.1.0"
+  }
+}
